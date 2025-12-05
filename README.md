@@ -6,3 +6,7 @@
 ## Демонстрация работы игры brain-even
 
 [![asciicast](https://asciinema.org/a/irTbOtr4vxSjK5jkFY7jyYYaj.svg)](https://asciinema.org/a/irTbOtr4vxSjK5jkFY7jyYYaj)
+
+## Демонстрация работы игры brain-calc
+
+[![asciicast](https://asciinema.org/a/MWxVqrExBDH5IidH9GVG1i2Ev.svg)](https://asciinema.org/a/MWxVqrExBDH5IidH9GVG1i2Ev)
