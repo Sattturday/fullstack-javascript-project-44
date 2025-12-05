@@ -18,3 +18,7 @@
 ## Демонстрация работы игры brain-progression
 
 [![asciicast](https://asciinema.org/a/95PCmqZ3ZqlStqvPSR9kyN095.svg)](https://asciinema.org/a/95PCmqZ3ZqlStqvPSR9kyN095)
+
+## Демонстрация работы игры brain-prime
+
+[![asciicast](https://asciinema.org/a/ofJ6mKtcDcd1IxVbaW2mS1fsq.svg)](https://asciinema.org/a/ofJ6mKtcDcd1IxVbaW2mS1fsq)
