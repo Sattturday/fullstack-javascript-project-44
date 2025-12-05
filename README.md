@@ -3,22 +3,16 @@
 
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Sattturday_fullstack-javascript-project-44&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Sattturday_fullstack-javascript-project-44)
 
----
-
 ## Описание проекта
 
 **Brain Games** — это набор консольных мини-игр, направленных на тренировку логики и базовых математических навыков.
 
 Пользователь запускает игру из консоли, отвечает на вопросы и проходит 3 раунда. Один неправильный ответ — и игра заканчивается. Если три ответа верные — поздравляем!
 
----
-
 ## Минимальные требования
 
 * Node.js ≥ 20
 * npm ≥ 9
-
----
 
 ## Установка
 
@@ -41,8 +35,6 @@ brain-progression # игра "Арифметическая прогрессия"
 brain-prime       # игра "Простое число"
 ```
 
----
-
 ## Правила
 
 1. Каждая игра состоит из 3 раундов.
@@ -58,8 +50,6 @@ brain-prime       # игра "Простое число"
    ```
    Congratulations, <имя>!
    ```
-
----
 
 ## Демонстрация работы игры brain-even
 
