@@ -10,3 +10,7 @@
 ## Демонстрация работы игры brain-calc
 
 [![asciicast](https://asciinema.org/a/MWxVqrExBDH5IidH9GVG1i2Ev.svg)](https://asciinema.org/a/MWxVqrExBDH5IidH9GVG1i2Ev)
+
+## Демонстрация работы игры gcd
+
+[![asciicast](https://asciinema.org/a/zp0Ql3nt3IuFYEsE2YFmZLzIA.svg)](https://asciinema.org/a/zp0Ql3nt3IuFYEsE2YFmZLzIA)
