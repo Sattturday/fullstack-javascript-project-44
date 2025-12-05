@@ -11,6 +11,10 @@
 
 [![asciicast](https://asciinema.org/a/MWxVqrExBDH5IidH9GVG1i2Ev.svg)](https://asciinema.org/a/MWxVqrExBDH5IidH9GVG1i2Ev)
 
-## Демонстрация работы игры gcd
+## Демонстрация работы игры brain-gcd
 
 [![asciicast](https://asciinema.org/a/zp0Ql3nt3IuFYEsE2YFmZLzIA.svg)](https://asciinema.org/a/zp0Ql3nt3IuFYEsE2YFmZLzIA)
+
+## Демонстрация работы игры brain-progression
+
+[![asciicast](https://asciinema.org/a/95PCmqZ3ZqlStqvPSR9kyN095.svg)](https://asciinema.org/a/95PCmqZ3ZqlStqvPSR9kyN095)
