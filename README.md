@@ -53,20 +53,20 @@ brain-prime       # игра "Простое число"
 
 ## Демонстрация работы игры brain-even
 
-[![asciicast](https://asciinema.org/a/irTbOtr4vxSjK5jkFY7jyYYaj.svg)](https://asciinema.org/a/irTbOtr4vxSjK5jkFY7jyYYaj)
+[![asciicast](https://asciinema.org/a/ZHb3n6B0v8v4V0u0Pr18uNY2M.svg)](https://asciinema.org/a/ZHb3n6B0v8v4V0u0Pr18uNY2M)
 
 ## Демонстрация работы игры brain-calc
 
-[![asciicast](https://asciinema.org/a/MWxVqrExBDH5IidH9GVG1i2Ev.svg)](https://asciinema.org/a/MWxVqrExBDH5IidH9GVG1i2Ev)
+[![asciicast](https://asciinema.org/a/5ZCM8yPshx4fin7CWkZhTE9HX.svg)](https://asciinema.org/a/5ZCM8yPshx4fin7CWkZhTE9HX)
 
 ## Демонстрация работы игры brain-gcd
 
-[![asciicast](https://asciinema.org/a/zp0Ql3nt3IuFYEsE2YFmZLzIA.svg)](https://asciinema.org/a/zp0Ql3nt3IuFYEsE2YFmZLzIA)
+[![asciicast](https://asciinema.org/a/WCdYZ8uLnL0CzKERJiMuSgXxU.svg)](https://asciinema.org/a/WCdYZ8uLnL0CzKERJiMuSgXxU)
 
 ## Демонстрация работы игры brain-progression
 
-[![asciicast](https://asciinema.org/a/95PCmqZ3ZqlStqvPSR9kyN095.svg)](https://asciinema.org/a/95PCmqZ3ZqlStqvPSR9kyN095)
+[![asciicast](https://asciinema.org/a/e3JIZ15gIKm64J7FlxDcOoIXS.svg)](https://asciinema.org/a/e3JIZ15gIKm64J7FlxDcOoIXS)
 
 ## Демонстрация работы игры brain-prime
 
-[![asciicast](https://asciinema.org/a/ofJ6mKtcDcd1IxVbaW2mS1fsq.svg)](https://asciinema.org/a/ofJ6mKtcDcd1IxVbaW2mS1fsq)
+[![asciicast](https://asciinema.org/a/x6dtKuXhrARbonNnyVNWDvEz0.svg)](https://asciinema.org/a/x6dtKuXhrARbonNnyVNWDvEz0)
